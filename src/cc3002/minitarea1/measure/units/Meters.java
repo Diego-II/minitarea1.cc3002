@@ -2,6 +2,9 @@ package cc3002.minitarea1.measure.units;
 
 import org.jetbrains.annotations.NotNull;
 
+/**
+ * Abstract class 
+ */
 public class Meters extends abstractMeasureUnit {
 
     public Meters(double len) {

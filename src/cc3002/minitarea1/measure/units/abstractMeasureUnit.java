@@ -10,4 +10,6 @@ public abstract class abstractMeasureUnit implements IMeasureUnit {
     public double getLen(){
         return this.len;
     }
+
+    public abstract IMeasureUnit addUnits(IMeasureUnit anotherUnit);
 }
