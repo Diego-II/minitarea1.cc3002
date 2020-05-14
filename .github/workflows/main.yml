@@ -32,6 +32,6 @@ jobs:
         echo Add other actions to build,
         echo test, and deploy your project.
         
-  - name: Telegram Notify
-    uses: appleboy/telegram-action@0.0.3
+    - name: Telegram Notify
+      uses: appleboy/telegram-action@0.0.3
 
