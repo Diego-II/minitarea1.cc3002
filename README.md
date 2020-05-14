@@ -2,4 +2,9 @@
 ## Diego Irarrazaval
 
 Intento de hacer que el bot de telegram me avise cuando 
-hago un push al repositorio. 
+hago un push al repositorio.
+
+Intentos:
+1. No paso nada.
+
+Vamos por el segundo intento. 
